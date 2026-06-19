@@ -17,9 +17,13 @@
 - Advanced C#
 - Building Real-World Projects
 
-## 📂 Projects
+## 📂 Featured Projects
 
-Here you'll find my learning projects and coding practice as I continue my software development journey.
+- GenericList<T>
+- StringClass
+- Game Project Refactor
+
+More projects coming soon...
 
 ## 📫 Connect With Me
 
