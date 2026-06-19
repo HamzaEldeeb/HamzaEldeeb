@@ -1,16 +1,16 @@
 # Hi, I'm Hamza Eldeeb 👋
 
-💻 Passionate Software Developer
+💻 Passionate Software Developer focused on C# and Software Design
 
 ## 🚀 Skills
 
 - C#
+- Data Structures
+- Problem Solving
 - SQL Server
 - JavaScript
 - HTML
 - CSS
-- Data Structures
-- Problem Solving
 
 ## 📚 Currently Learning
 
