@@ -14,9 +14,8 @@
 
 ## 📚 Currently Learning
 
-- Object-Oriented Programming (OOP)
-- Software Design
-- System Analysis & Design
+- Advanced C#
+- Building Real-World Projects
 
 ## 📂 Projects
 
