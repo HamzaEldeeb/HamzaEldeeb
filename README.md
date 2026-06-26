@@ -17,12 +17,11 @@
 - Advanced C#
 - Building Real-World Projects
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-- GenericList<T>
-- StringClass
-- Game Project Refactor
-
+- 📚 **[Generic List](https://github.com/HamzaEldeeb/GenericList)**
+- 🔤 **[String Class](https://github.com/HamzaEldeeb/StringClass)**
+- 🎮 **[Game Project Refactor](https://github.com/HamzaEldeeb/Game-Project-Refactor)**
 More projects coming soon...
 
 ## 📫 Connect With Me
