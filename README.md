@@ -1,4 +1,4 @@
-# Hi, I'm Hamza Eldeeb 👋
+# Aspiring .Net Developer
 
 💻 Passionate Software Developer focused on C# and Software Design
 
