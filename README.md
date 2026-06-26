@@ -19,10 +19,10 @@
 
 ## 🚀 Featured Projects
 
-- 📚 **[Generic List](https://github.com/HamzaEldeeb/GenericList)**
+- 📚 **[Generic List](https://github.com/HamzaEldeeb/Generic-List)**
 - 🔤 **[String Class](https://github.com/HamzaEldeeb/StringClass)**
 - 🎮 **[Game Project Refactor](https://github.com/HamzaEldeeb/Game-Project-Refactor)**
-More projects coming soon...
+- More projects coming soon...
 
 ## 📫 Connect With Me
 
